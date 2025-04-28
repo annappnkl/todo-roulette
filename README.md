@@ -14,12 +14,13 @@ It mixes work, study, and self-care activities — and shuffles tasks randomly t
 
 ## Project Structure
 
-File | Purpose
-main.py | Core logic: task loading, shuffling, work session tracking, updating task status.
-start.py | Starts a new session: initializes task list and handles Streamlit + ngrok tunnel.
-tasks.json | Example database of categorized tasks (must-do, want-to-do, later).
-base.css | Styling file intended for future UI improvements (currently not actively used).
-Todo Roulette Overview.rtf | Vision document outlining long-term goals, positioning, and marketing ideas.
+| File | Purpose |
+|:-----|:--------|
+| `main.py` | Core logic: task loading, shuffling, work session tracking, updating task status. |
+| `start.py` | Starts a new session: initializes task list and handles Streamlit + ngrok tunnel. |
+| `tasks.json` | Example database of categorized tasks (must-do, want-to-do, later). |
+| `base.css` | Styling file intended for future UI improvements (currently not actively used). |
+| `Todo Roulette Overview.rtf` | Vision document outlining long-term goals, positioning, and marketing ideas. |
 
 ## Planned Future Features (Not Yet Implemented)
 

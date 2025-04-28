@@ -14,20 +14,25 @@ It mixes work, study, and self-care activities — and shuffles tasks randomly t
 
 ## Project Structure
 
-File	Purpose
-main.py	Core logic: task loading, shuffling, work session tracking, updating task status.
-start.py	Starts a new session: initializes task list and handles basic session timing.
-tasks.json	Example database of categorized tasks (must-do, want-to-do, later).
-base.css	Styling file intended for future UI integration (not yet used).
-Todo Roulette Overview.rtf	Vision document outlining long-term goals, positioning, and marketing ideas.
+File | Purpose
+main.py | Core logic: task loading, shuffling, work session tracking, updating task status.
+start.py | Starts a new session: initializes task list and handles Streamlit + ngrok tunnel.
+tasks.json | Example database of categorized tasks (must-do, want-to-do, later).
+base.css | Styling file intended for future UI improvements (currently not actively used).
+Todo Roulette Overview.rtf | Vision document outlining long-term goals, positioning, and marketing ideas.
 
 ## Planned Future Features (Not Yet Implemented)
 
 📆 Manual calendar input and scheduling
+
 📊 Visual analytics (work vs break vs mus/want task percentages)
+
 🎯 Fun/Self-Care balancing system (automated suggestions at automated time intervals)
+
 🔗 Calendar syncing (Google Calendar integration) - if not needed will not implement - annying to always have to integrate everything and overcomplicate tools
+
 🧠 AI-powered task prioritization that analyses your personal behaviours
+
 📱 Mobile & Desktop app (Flutter or React Native)
 
 ## Setup Requirements
@@ -52,3 +57,7 @@ Todo Roulette aims to redefine productivity for flexible workers and students by
 
 ## Contribute 
 If you want to contribute or use this project, please reach out first!
+
+## Autor
+
+Anna Papanakli

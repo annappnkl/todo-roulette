@@ -1,0 +1,91 @@
+# 🚀 Task Roulette App – Overview & MVP Plan
+
+This document outlines the **vision**, **positioning**, **target audience**, and **MVP plan** for a unique task management app designed for students, freelancers, and remote workers.  
+Unlike traditional to-do lists, this app uses a **gamified, adaptive approach** to planning tasks, balancing productivity with personal goals and self-care.
+
+---
+
+## 📌 Positioning: The Flexible Study & Task Planner for Students
+
+Most productivity tools are built for corporate professionals, but students, freelancers, and remote workers don’t work like that.  
+This app is designed to **respect flexible, ever-changing schedules** while keeping users on track.
+
+---
+
+## 🎯 Who is it for?
+
+✅ University students with flexible schedules  
+✅ PhD students & researchers managing long-term projects  
+✅ Freelancers & self-employed individuals balancing work & learning  
+
+---
+
+## 💡 Why is it different?
+
+🚀 Unlike traditional to-do apps, this tool adapts to real life:
+- 🎲 **Shuffles tasks** — No more decision fatigue; fun and work tasks are mixed dynamically.
+- ⏳ **Tracks actual work time** — No rigid timers; time is recorded when you start and finish.
+- 🗖️ **Adapts to real schedules** — Syncs with classes, meetings, and real-life constraints.
+- 🧬 **Encourages deep work & balance** — Combines work, study, and personal goals into a structured yet flexible workflow.
+
+---
+
+## 🔥 Key Features & Benefits
+
+✅ **Gamified Task Selection (Task Roulette)** — Fun, randomized task picking to keep productivity high.  
+✅ **Flexible Task Splitting** — Automatically splits long tasks into smaller focus sessions.  
+✅ **Personal Goals & Self-Care Scheduling** — Easily plan activities like reading, cooking, or resting.  
+✅ **Real-Time Adaptive Planning** — Adjusts your daily plan based on real work done, reducing stress.  
+✅ **Balanced Work & Fun Ratio** — Set a preferred work/fun ratio (e.g., 80% work, 20% fun).  
+✅ **"Anytime" Surprise Tasks** — A small pool of flexible tasks to maintain spontaneity.  
+✅ **Follow-Up Task System** — Add tasks that arise while working without breaking flow.  
+✅ **Calendar Integration for Planning** — Future syncing with calendars to realistically manage load.
+
+---
+
+## 🛠 MVP: A Simple, Functional Version for Students
+
+To launch quickly, the first MVP will include:
+
+✅ **MVP Features (First Version)**
+- 🎲 Task Shuffling — Randomized task selection for motivation
+- 📂 Task Groups — Study, Uni, Hobbies, Work, Self-Care
+- ⏳ Task Splitting — Auto-break long tasks into focus sessions
+- ✅ Real-Time Tracking — Work time is tracked between task start and finish
+- 🗖️ Manual Calendar Input — Users can manually enter classes and meetings
+- 📊 Basic Work/Break Analytics — Show % work vs break time
+
+❌ **Features to Add Later**
+- Auto-import calendar events
+- AI-powered task prioritization
+- Phone usage tracking for distraction analysis
+- Advanced smart recommendations (e.g., food ordering if running low on time)
+
+---
+
+## 📢 Marketing Plan: How to Attract Student Users
+
+1️⃣ **Social Media & Content Creation**
+- TikTok, Instagram, YouTube Shorts → "How I Plan My Day as a Student"
+- Share realistic productivity tips (not toxic hustle culture)
+- Demo videos showcasing unique app features
+
+2️⃣ **Student Communities & Subreddits**
+- Engage with communities like r/college, r/productivity, r/getdisciplined
+- Frame the app as "a study planner that actually fits student life"
+
+3️⃣ **Free Version for Early Users**
+- Offer free beta testing to students
+- Build a small, engaged early community
+
+4️⃣ **University Partnerships (Later Stage)**
+- Collaborate with student organizations and academic advisors
+- Promote it as a balanced study/life planning tool
+
+---
+
+## 🚀 Next Steps: Building & Testing the MVP
+
+1️⃣ **Finalize MVP Features & Start Development of App**  
+2️⃣ **Test it with real students & iterate based on feedback**  
+3️⃣ **Expand to a Mobile App (Flutter or React Native)**
